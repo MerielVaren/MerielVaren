@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MerielVaren
-- 🛠️ I’m a fullstack developer
+- 🛠️ I’m a full stack developer
 
 <!---
 MerielVaren/MerielVaren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
